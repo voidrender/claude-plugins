@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "voidrender",
+  "description": "Isaac Overacker's Claude Code plugins.",
+  "owner": {
+    "name": "Isaac Overacker"
+  },
+  "plugins": [
+    {
+      "name": "gitmoji",
+      "source": "./plugins/gitmoji",
+      "description": "Gitmoji reference for choosing the emoji that starts a commit message or PR title.",
+      "category": "productivity",
+      "keywords": ["git", "gitmoji", "commits"]
+    }
+  ]
+}

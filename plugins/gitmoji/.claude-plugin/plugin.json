@@ -1,0 +1,9 @@
+{
+  "name": "gitmoji",
+  "version": "1.0.0",
+  "description": "Gitmoji reference for choosing the emoji that starts a commit message or PR title.",
+  "author": {
+    "name": "Isaac Overacker"
+  },
+  "license": "MIT"
+}
